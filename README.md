@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**rahmanlana26/rahmanlana26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Rahman Lana 👋</h1>
+<h3 align="center">Informatics Student | Flutter Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building mobile applications and exploring Machine Learning.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahmanlana26&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Informatics student at Politeknik Negeri Malang
+- 📱 Interested in Flutter and mobile development
+- 🤖 Learning Machine Learning with Python
+- 🚀 Building projects for learning and portfolio
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,git,github,vscode,postgres" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahmanlana26&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanlana26&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rahmanlana26&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🚀 Featured Projects
+
+- **TaskFlow AI** — Smart task management application.
+- **Student Finance App** — Student expense tracking and budgeting.
+- **Machine Learning Practicum** — Python notebooks and ML experiments.
+
+---
+
+<p align="center">
+  <i>Keep learning, keep building, keep improving.</i>
+</p>
