@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahmanlana26&style=flat-square&color=blue" alt="Profile views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=rahmanlana26&style=flat-square&color=blue"
+    alt="Profile views"
+  />
 </p>
 
 ---
@@ -22,18 +25,32 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,git,github,vscode,postgres" />
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,python,git,github,vscode,postgres"
+    alt="Tech Stack"
+  />
 </p>
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahmanlana26&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanlana26&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=rahmanlana26&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanlana26&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rahmanlana26&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=rahmanlana26&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ### 🚀 Featured Projects
